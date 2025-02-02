@@ -1,2 +1,2 @@
-# sound-stage-demo
+# sound-stage-theatre
 Sound Stage - Theatre Ticket Booking Project 
